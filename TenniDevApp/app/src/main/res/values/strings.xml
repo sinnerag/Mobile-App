@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TenniDevApp</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">reset</string>
+    <string name="player1">Player1</string>
+    <string name="player2">Player2</string>
+    <string name="player1name">Player1name</string>
+    <string name="player2name">Player2name</string>
+    <string name="name">Name</string>
+    <string name="emptystring" />
+    <string name="emptystring1" />
+</resources>
